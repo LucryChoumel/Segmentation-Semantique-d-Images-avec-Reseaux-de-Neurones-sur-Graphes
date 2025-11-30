@@ -2,7 +2,7 @@
 
 
 Ce projet vise à implémenter une solution de segmentation sémantique d'images en utilisant des réseaux de neurones sur graphes, avec une application pratique sur le jeu de données de Cityscapes.
-# le code ne pas complet et ce juste une partie fine du projet parceque le travaille est encour d'etre accepter .....
+# le code n'est pas complet et c'est juste une partie fine du projet parceque le travail est encour d'etre accepter .....
 ## Auteur
 
 Ce projet a été réalisé par Lucry.
