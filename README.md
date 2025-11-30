@@ -1,4 +1,4 @@
-# Segmentation-S-mantique-d-Images-avec-R-seaux-de-Neurones-sur-Graphes
+# Segmentation Sémantique d'Images avec Réseaux de Neurones sur Graphes
 
 
 Ce projet vise à implémenter une solution de segmentation sémantique d'images en utilisant des réseaux de neurones sur graphes, avec une application pratique sur le jeu de données de Cityscapes.
